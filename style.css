@@ -1,0 +1,23 @@
+
+ body{
+  background-color:#ecf4f3;
+ }
+ h1{
+  color:#393b44;
+ }
+ h2{
+  color:#2d6187;
+ }
+ h3{
+  color:#2d6187;
+ }
+ hr{
+  border: 0;
+  height: 1px;
+  width:30%;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc)
+ }
+ .about{
+   color:#132743;
+ }
